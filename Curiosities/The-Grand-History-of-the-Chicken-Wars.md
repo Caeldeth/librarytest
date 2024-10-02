@@ -1,4 +1,5 @@
 # The Grand History of the Chicken Wars
+### _by ShitHorse in Dark Ages Online: Roleplaying_
 
 ## The Beginning of the Fowl Conflict
 

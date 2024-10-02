@@ -1,4 +1,5 @@
 # Weapons of the Elder Isles
+### _by XvXAngel6969XvX in Dark Ages Online: Roleplaying_
 
 This entry lists some of the notable weapons found throughout the Elder Isles of Temuair. These weapons, forged by master blacksmiths and enchanted by ancient magics, are sold by vendors across various cities. Many of these armaments carry unique histories and are sought after by adventurers who wish to wield power that echoes the past.
 

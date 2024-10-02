@@ -1,4 +1,5 @@
 # The Forgotten Gods of Humanity
+### _by OldFrenchWhore in Dark Ages Online: Roleplaying_
 
 Before humanity fled to Temuair, they were not without their own pantheon of divine protectors. Among these were three prominent gods, each representing crucial aspects of human life and the world they called home. However, as Chadul’s darkness spread across their lands, these deities met their demise, sacrificing themselves in a desperate bid to protect their people. Their passing marked the end of an era, leaving behind only fragmented memories and the echoes of what once was.
 
@@ -13,3 +14,11 @@ Maelis, often referred to as the Weaver of Dreams, was the goddess of knowledge,
 ## Caor, The Verdant Nurturer
 
 The third god, Caor, the Verdant Nurturer, was the deity of growth, nature, and the cycle of life. She was the embodiment of the earth’s fertility, the one who brought life to crops and nurtured the lands. Caor was often depicted as a gentle figure, adorned with flowers and vines, with a serene smile that promised abundance and peace. Farmers and healers worshipped her, seeking her blessing for fertile harvests and the wellbeing of the sick. However, as Chadul’s darkness spread, it poisoned the lands, and Caor fought a losing battle against the decay. In her final act, she poured all her remaining strength into a single blossom—a symbol of hope—before withering away. Her demise left humanity facing barren fields, stripped of the life-giving warmth that once nourished them.
+
+```
+*Librarian Notes*
+
+This work is considered one of the greatest treasures of Temuair.
+
+This entry has been edited to conform to Library formatting.
+The original can be found at http://darkages.com/community/his/Ayshilin_Dorcha.html .```
