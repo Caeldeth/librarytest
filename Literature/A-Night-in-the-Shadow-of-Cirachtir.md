@@ -1,5 +1,5 @@
 # A Night in the Shadow of Cirachtir
-### _by ShitRat in Dark Ages Online: Roleplaying_
+###### _by ShitRat in Dark Ages Online: Roleplaying_
 
 ## The Setting Sun
 

@@ -1,5 +1,5 @@
 # Bruce, Minister of Chains
-### _by HorseShit in Dark Ages Online: Roleplaying_
+###### _by HorseShit in Dark Ages Online: Roleplaying_
 
 ## The Eternal Reign
 

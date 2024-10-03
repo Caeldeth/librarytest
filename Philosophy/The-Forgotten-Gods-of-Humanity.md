@@ -1,5 +1,5 @@
 # The Forgotten Gods of Humanity
-### _by OldFrenchWhore in Dark Ages Online: Roleplaying_
+###### _by OldFrenchWhore in Dark Ages Online: Roleplaying_
 
 Before humanity fled to Temuair, they were not without their own pantheon of divine protectors. Among these were three prominent gods, each representing crucial aspects of human life and the world they called home. However, as Chadul’s darkness spread across their lands, these deities met their demise, sacrificing themselves in a desperate bid to protect their people. Their passing marked the end of an era, leaving behind only fragmented memories and the echoes of what once was.
 
