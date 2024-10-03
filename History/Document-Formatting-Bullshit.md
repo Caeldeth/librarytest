@@ -1,6 +1,6 @@
 # Style Document
 ##### A guide to how to not lose your mind
-###### by Sabrael
+###### by Sabrael in Hybrasyl: With BlackJack and Hookers
 
 ---  
 
